@@ -18,9 +18,14 @@ npm install
 ```
 
 # 使用
-
+![demo1](images/demo.png)
+![demo2](images/demo2.jpg)
 在终端中进入项目目录，输入以下命令启动程序：
+
+```bash
 node index.js
+```
+
 程序会在终端中输出倒计时信息，每隔 1 小时会发出桌面通知提醒用户起来活动，可以点击通知中的按钮关闭提醒。
 
 # 配置

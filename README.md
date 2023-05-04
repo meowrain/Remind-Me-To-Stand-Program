@@ -14,6 +14,8 @@ npm install
 ```
 
 # Usage
+![demo1](/docs/images/demo.png)
+![demo2](/docs/images/demo2.jpg)
 Navigate to the project directory in the terminal and enter the following command to start the program:
 ```bash
 node index.js
